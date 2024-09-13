@@ -22,12 +22,15 @@ Precision, recall, f1-score, support:
 weighted avg       0.85      0.85      0.85        39
 
 
-Model predictions visualized :
+                                                           Model predictions visualized :
 Predicting dog images
                           Predicting dog images
 ![dog (8)](https://github.com/user-attachments/assets/d1114f54-c1f8-4d8c-b902-f12f75bf90ce)
 ![dog (81)](https://github.com/user-attachments/assets/f37a4dcf-ced5-4b8e-841a-193dfa5ba627)
 ![dog (86)](https://github.com/user-attachments/assets/3590d1a6-2d83-481d-b0d5-49946a8def75)
+
+
+
 
 
 
