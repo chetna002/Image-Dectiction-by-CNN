@@ -26,10 +26,17 @@ Model predictions visualized :
 Predicting dog images
                           Predicting dog images
 ![dog (8)](https://github.com/user-attachments/assets/d1114f54-c1f8-4d8c-b902-f12f75bf90ce)
+![dog (81)](https://github.com/user-attachments/assets/f37a4dcf-ced5-4b8e-841a-193dfa5ba627)
+![dog (86)](https://github.com/user-attachments/assets/3590d1a6-2d83-481d-b0d5-49946a8def75)
+
+
 
 Predicting cat images
                           Predicting Cat images
 ![cat (92)](https://github.com/user-attachments/assets/7dd462db-e4f4-440a-93c0-5db318bc628c)
+![cat (96)](https://github.com/user-attachments/assets/6e9b2646-e00d-42b2-b471-535a78b62a57)
+![cat (71)](https://github.com/user-attachments/assets/6d572428-ae75-402e-adb3-de65e5791de6)
+
                           
                           
 
